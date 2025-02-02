@@ -5,6 +5,9 @@ którm dzielą się za pośrednictwem platform zewnętrznych.
 
 Aplikacja ma możliwość logowania, rejestracji, tworzenia galerii, dołączania galerii oraz dodawania zdjęć do nich.
 
+Baza danych zawiera wyzwalacz, funkcję, widoki.
+Fetchapi jest wykorzystane do wyświetlania galerii w głównym widoku użytkownika. 
+
 Aby stworzyć lub dołączyć do galerii należy wybrać przycisk 'Add' z głównego widoku.<br>
 Aby zobaczyć kod zaproszeniowy należy nacisnąć przycisk 'Code' z widoku galerii.<br>
 Aby ustawić zdjęcie jako główne zdjęcie galerii pokazujące się na ekranie głównym użytkownika, należy
