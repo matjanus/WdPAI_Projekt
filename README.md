@@ -10,7 +10,7 @@ Aby zobaczyć kod zaproszeniowy należy nacisnąć przycisk 'Code' z widoku gale
 Aby ustawić zdjęcie jako główne zdjęcie galerii pokazujące się na ekranie głównym użytkownika, należy
 Wybrać zdjęcie, a następnie wybrać przycisk pod zdjęciem podczas widoku wybranego zdjęcia.
 
-Do aplikacji jest dołączony plik ze zdjęciami pierwotnego projektu aplikacji utworzonego na początku zajęć.
+Do aplikacji jest dołączony plik 'ProjektAplikacji' ze zdjęciami pierwotnego projektu aplikacji utworzonego na początku zajęć.
 
 Aplikacja będzie do momentu otrzymania oceny hostowana za pomocom Azure<br>
 Link do strony: http://20.206.250.86:8080/<br>
